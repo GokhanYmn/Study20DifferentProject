@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_AdonetCustomer", "Project1_AdonetCustomer\Project1_AdonetCustomer.csproj", "{953F466F-5E1D-41E7-8B49-1E93E2B6BB27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_EntiryFrameWorkDbFirstProduct", "Project2_EntiryFrameWorkDbFirstProduct\Project2_EntiryFrameWorkDbFirstProduct.csproj", "{B1838375-BDB8-4493-BF42-C14E5D12B5B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{953F466F-5E1D-41E7-8B49-1E93E2B6BB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{953F466F-5E1D-41E7-8B49-1E93E2B6BB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{953F466F-5E1D-41E7-8B49-1E93E2B6BB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1838375-BDB8-4493-BF42-C14E5D12B5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1838375-BDB8-4493-BF42-C14E5D12B5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1838375-BDB8-4493-BF42-C14E5D12B5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1838375-BDB8-4493-BF42-C14E5D12B5B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
