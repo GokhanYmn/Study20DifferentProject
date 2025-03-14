@@ -68,5 +68,10 @@ namespace Project2_EntiryFrameWorkDbFirstProduct
             Temizle(this);
 
         }
+
+        private void FrmCategory_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

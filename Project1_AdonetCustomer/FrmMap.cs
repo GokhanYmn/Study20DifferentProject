@@ -34,5 +34,10 @@ namespace Project1_AdonetCustomer
         {
             Application.Exit();
         }
+
+        private void FrmMap_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

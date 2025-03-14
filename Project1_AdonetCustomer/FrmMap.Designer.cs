@@ -75,6 +75,7 @@
             this.Name = "FrmMap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Fromlar";
+            this.Load += new System.EventHandler(this.FrmMap_Load);
             this.ResumeLayout(false);
 
         }
