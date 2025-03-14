@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2_EntiryFrameWorkDbF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3_EntityFrameworkStatistics", "Project3_EntityFrameworkStatistics\Project3_EntityFrameworkStatistics.csproj", "{BD74F1CB-54FC-469B-A46B-C0650D122BA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project4_EntityFrameworkCodeFirstMovie", "Project4_EntityFrameworkCodeFirstMovie\Project4_EntityFrameworkCodeFirstMovie.csproj", "{D7712D58-DDC0-4587-88B8-45FF7CC8B6B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BD74F1CB-54FC-469B-A46B-C0650D122BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD74F1CB-54FC-469B-A46B-C0650D122BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD74F1CB-54FC-469B-A46B-C0650D122BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7712D58-DDC0-4587-88B8-45FF7CC8B6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7712D58-DDC0-4587-88B8-45FF7CC8B6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7712D58-DDC0-4587-88B8-45FF7CC8B6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7712D58-DDC0-4587-88B8-45FF7CC8B6B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
