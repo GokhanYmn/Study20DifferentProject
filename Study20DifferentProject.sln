@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_ApiWeather", "Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{7EE62470-76D4-46BA-B069-0C4B4CEBE086}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapiAPI_Currency", "Project8_RapiAPI_Currency\Project8_RapiAPI_Currency.csproj", "{1E7F63C6-0D96-477A-8820-80D9B0D5C814}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7EE62470-76D4-46BA-B069-0C4B4CEBE086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE62470-76D4-46BA-B069-0C4B4CEBE086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE62470-76D4-46BA-B069-0C4B4CEBE086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7F63C6-0D96-477A-8820-80D9B0D5C814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7F63C6-0D96-477A-8820-80D9B0D5C814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7F63C6-0D96-477A-8820-80D9B0D5C814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7F63C6-0D96-477A-8820-80D9B0D5C814}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
