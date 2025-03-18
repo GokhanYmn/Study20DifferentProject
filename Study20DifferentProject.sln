@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project11_TriggerOrderStock
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project12_JwtToken", "Project12_JwtToken\Project12_JwtToken.csproj", "{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project13_WeatherAppApi", "Project13_WeatherAppApi\Project13_WeatherAppApi.csproj", "{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
