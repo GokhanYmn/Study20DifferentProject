@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{953F466F-5E1D-41E7-8B49-1E93E2B6BB27}</ProjectGuid>
+    <ProjectGuid>{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Project1_AdonetCustomer</RootNamespace>
-    <AssemblyName>Project1_AdonetCustomer</AssemblyName>
+    <RootNamespace>Project12_JwtToken</RootNamespace>
+    <AssemblyName>Project12_JwtToken</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -89,34 +89,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmCity.cs">
+    <Compile Include="FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCity.Designer.cs">
-      <DependentUpon>FrmCity.cs</DependentUpon>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmCustomer.cs">
+    <Compile Include="FrmEmployee.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCustomer.Designer.cs">
-      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    <Compile Include="FrmEmployee.Designer.cs">
+      <DependentUpon>FrmEmployee.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmMap.cs">
+    <Compile Include="FrmTokenGenerator.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmMap.Designer.cs">
-      <DependentUpon>FrmMap.cs</DependentUpon>
+    <Compile Include="FrmTokenGenerator.Designer.cs">
+      <DependentUpon>FrmTokenGenerator.cs</DependentUpon>
     </Compile>
+    <Compile Include="JWT\TokenGenerator.cs" />
+    <Compile Include="JWT\TokenValidator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmCity.resx">
-      <DependentUpon>FrmCity.cs</DependentUpon>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmCustomer.resx">
-      <DependentUpon>FrmCustomer.cs</DependentUpon>
+    <EmbeddedResource Include="FrmEmployee.resx">
+      <DependentUpon>FrmEmployee.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmMap.resx">
-      <DependentUpon>FrmMap.cs</DependentUpon>
+    <EmbeddedResource Include="FrmTokenGenerator.resx">
+      <DependentUpon>FrmTokenGenerator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
