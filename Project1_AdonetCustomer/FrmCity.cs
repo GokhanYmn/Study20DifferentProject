@@ -74,5 +74,10 @@ namespace Project1_AdonetCustomer
             sqlConnection.Close();
 
         }
+
+        private void FrmCity_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

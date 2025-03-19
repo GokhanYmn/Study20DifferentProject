@@ -161,7 +161,7 @@
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
-            // Form1
+            // FrmCity
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -179,8 +179,9 @@
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtCityId);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FrmCity";
             this.Text = "City Process Form";
+            this.Load += new System.EventHandler(this.FrmCity_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
