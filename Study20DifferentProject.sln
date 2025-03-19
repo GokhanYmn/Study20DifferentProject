@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project5_DapperNorthwind", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project6_ApiWeather", "Project6_ApiWeather\Project6_ApiWeather.csproj", "{28343B61-8CD1-44FB-9703-4F8E8299F67F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{7EE62470-76D4-46BA-B069-0C4B4CEBE086}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project7_ApiWeatherConsume", "Project7_ApiWeatherConsume\Project7_ApiWeatherConsume.csproj", "{7EE62470-76D4-46BA-B069-0C4B4CEBE086}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project8_RapiAPI_Currency", "Project8_RapiAPI_Currency\Project8_RapiAPI_Currency.csproj", "{1E7F63C6-0D96-477A-8820-80D9B0D5C814}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project12_JwtToken", "Project12_JwtToken\Project12_JwtToken.csproj", "{F6BF0C93-2DA3-412C-9C69-E7A29549BF2F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project13_WeatherAppApi", "Project13_WeatherAppApi\Project13_WeatherAppApi.csproj", "{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project14_SQLAllRelations", "Project14_SQLAllRelations\Project14_SQLAllRelations.csproj", "{22152950-F8B7-45D1-A562-2F91BE0752D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5A0CDB8-66F2-46C7-AD0B-677E2D1CF920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22152950-F8B7-45D1-A562-2F91BE0752D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22152950-F8B7-45D1-A562-2F91BE0752D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22152950-F8B7-45D1-A562-2F91BE0752D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22152950-F8B7-45D1-A562-2F91BE0752D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
