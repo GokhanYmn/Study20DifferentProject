@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project17_KaggleDataset", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project18_DashboardSuperStoreDataset", "Project18_DashboardSuperStoreDataset\Project18_DashboardSuperStoreDataset.csproj", "{8A756D90-3A79-4008-AB7A-D658E34D1061}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project19_TableStatusForRestaurant", "Project19_TableStatusForRestaurant\Project19_TableStatusForRestaurant.csproj", "{7A50D989-512C-426A-8C29-027E541D57B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{8A756D90-3A79-4008-AB7A-D658E34D1061}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A756D90-3A79-4008-AB7A-D658E34D1061}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A756D90-3A79-4008-AB7A-D658E34D1061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A50D989-512C-426A-8C29-027E541D57B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A50D989-512C-426A-8C29-027E541D57B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A50D989-512C-426A-8C29-027E541D57B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A50D989-512C-426A-8C29-027E541D57B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
